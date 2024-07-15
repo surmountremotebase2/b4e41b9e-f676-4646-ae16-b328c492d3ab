@@ -28,7 +28,3 @@ class TradingStrategy(Strategy):
             spy_stake = 1
 
         return TargetAllocation({"SPY": spy_stake})
-
-
-
-Updats
